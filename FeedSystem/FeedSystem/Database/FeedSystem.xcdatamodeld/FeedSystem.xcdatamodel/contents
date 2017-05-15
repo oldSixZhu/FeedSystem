@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16E195" minimumToolsVersion="Xcode 7.3" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="Fodder" representedClassName="Fodder" syncable="YES">
+        <attribute name="ash" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cp" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="crude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="danbai" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dm" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dpi" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lipid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="p" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rongshi" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="TGC" representedClassName="TGC" syncable="YES">
+        <attribute name="temp" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="weight" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="User" representedClassName="User" syncable="YES">
+        <attribute name="password" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="user_id" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Fodder" positionX="18" positionY="144" width="128" height="210"/>
+        <element name="TGC" positionX="-36" positionY="27" width="128" height="90"/>
+        <element name="User" positionX="-63" positionY="-18" width="128" height="75"/>
+    </elements>
+</model>
