@@ -17,3 +17,5 @@ pickerView选择文字
 [Xcode8.x使用CoreData模型出现类被非法重定义的解决办法](http://blog.csdn.net/mydo/article/details/53117088)
 
 [C语言中,平方根用函数sqrt,那么三次方根用什么函数](https://www.zybang.com/question/71c52d529986e9c42ab35b92204ea7c9.html)
+
+[如何查找当前的第一响应者](http://blog.csdn.net/japhoo/article/details/51199266)
